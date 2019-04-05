@@ -1,0 +1,17 @@
+{
+  "name": "teste_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago Cortez",
+  "license": "ISC",
+  "dependencies": {
+    "apicache": "^1.4.0",
+    "mysql": "^2.16.0",
+    "npm-cache-path": "^2.0.0",
+    "request": "^2.81.0"
+  }
+}

@@ -19,7 +19,7 @@ bd.connect();
     
         const dadosAPI =body;
         
-        console.log(body);
+        
         console.log(body);
         /** 
         let vals1 = [];
